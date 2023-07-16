@@ -1,1 +1,1 @@
-# -7DaysOfCode-Logica-JS---Desafio-Alura
+#7DaysOfCode Lógica para JavaScript - Desafio Alura
